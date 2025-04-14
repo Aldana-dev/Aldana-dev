@@ -26,7 +26,7 @@
 
 ## 📫 Contacto | Let's connect!
 
-Podés escribirme por acá: [Email](aldana.devmail@gmail.com) 
+Podés escribirme por acá: aldana.devmail@gmail.com
 
 ---
 
