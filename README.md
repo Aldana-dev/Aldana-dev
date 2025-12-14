@@ -1,33 +1,18 @@
-# ✨ ¡Hola! Soy Aldana | Hi there! I'm Aldana ✨
-![tecnica](https://github.com/user-attachments/assets/a997ac44-b424-4418-93df-3afa22ddfb6f)
+# Aldana Ravalle | Desarrolladora Full Stack | Argentina 🇦🇷
 
-🎓 Técnica en programación (próximamente) desde Argentina  
-💻 Apasionada por el desarrollo web, el diseño accesible y las interfaces funcionales y originales  
-📚 Actualmente aprendiendo con cursos de Google y creando mi portafolio personal
+![Hola, soy Aldana](tecnica.png)
 
----
+Técnica en Programación con 4 años de experiencia en desarrollo de software. Tengo conocimientos en desarrollo web full stack y experiencia trabajando en diferentes tipos de proyectos, desde aplicaciones web hasta videojuegos.
 
-## 💡 Tecnologías y herramientas | Technologies & Tools
+Busco expandir mis conocimientos en todas las ramas de la programación y participar en proyectos diversos que me permitan crecer profesionalmente. Me interesa aprender nuevas tecnologías y metodologías mientras contribuyo con mis habilidades actuales.
 
-**Front-End:** HTML · CSS · JavaScript  
-**Back-End:** Python · Java  
-**Bases de datos:** MongoDB · MySQL  
-**Diseño:** Figma  
+**Actualmente disponible para oportunidades laborales, proyectos freelance y colaboraciones.**
 
----
+## Contacto
 
-## 🚀 En este momento... | Right now...
-
-🧠 Estoy profundizando mis conocimientos y mejorando mis habilidades técnicas  
-🎨 Enfrentando desafíos de diseño y practicando con proyectos personales  
-🌱 En constante crecimiento, buscando aprender algo nuevo cada día
+**Email:** aldana.devmail@gmail.com  
+**LinkedIn:** [linkedin.com/in/aldana-ravalle](https://linkedin.com/in/aldana-ravalle)
 
 ---
 
-## 📫 Contacto | Let's connect!
-
-Podés escribirme por acá: aldana.devmail@gmail.com
-
----
-
-> "La programación no es solo lógica, sino también creatividad."  
+> *"La creatividad es la inteligencia divirtiéndose". — Albert Einstein.*
